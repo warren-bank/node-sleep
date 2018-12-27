@@ -1,0 +1,15 @@
+{
+  "name": "@warren-bank/node-sleep",
+  "description": "A configurable setTimeout().. nothing more. For use in npm scripts.",
+  "version": "1.0.0",
+  "bin": {
+    "node-sleep": "bin/node-sleep.js"
+  },
+  "license": "GPL-2.0",
+  "author": "Warren Bank (https://github.com/warren-bank)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-sleep"
+  },
+  "keywords": ["node", "npm", "sleep", "wait", "pause", "delay", "timer", "timeout"]
+}
